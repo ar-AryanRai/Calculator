@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculator</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <div class="calc-body">
+
+    <div class="display">
+
+      <div class="resultDisplay"></div>
+
+      <div class="screen"></div>
+
+    </div>
+
+    <div class="num">
+
+      <button class="clear button" onclick="clickClear()">AC</button>
+
+      <button class="back button" onclick="clickBack()">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#F5692B"><path d="M360-200q-20 0-37.5-9T294-234L120-480l174-246q11-16 28.5-25t37.5-9h400q33 0 56.5 23.5T840-680v400q0 33-23.5 56.5T760-200H360Zm400-80v-400 400Zm-400 0h400v-400H360L218-480l142 200Zm96-40 104-104 104 104 56-56-104-104 104-104-56-56-104 104-104-104-56 56 104 104-104 104 56 56Z"/></svg>
+      </button>
+
+      <button class="moduloOp button" onclick="">%</button>
+
+      <button class="divide button" onclick="clickDivide()"> &#247; </button>
+
+      <button class="seven button" onclick="clickSeven()">7</button>
+
+      <button class="eight button" onclick="clickEight()">8</button>
+
+      <button class="nine button" onclick="clickNine()">9</button>
+
+      <button class="multiply button" onclick="clickMultiply()">x</button>
+
+      <button class="four button" onclick="clickFour()">4</button>
+
+      <button class="five button" onclick="clickFive()">5</button>
+
+      <button class="six button" onclick="clickSix()">6</button>
+
+      <button class="minus button" onclick="clickMinus()">-</button>
+
+      <button class="one button" onclick="clickOne()">1</button>
+
+      <button class="two button" onclick="clickTwo()">2</button>
+
+      <button class="three button" onclick="clickThree()">3</button>
+
+      <button class="add button" onclick="clickPlus()">+</button>
+      
+      <button class="zero button" onclick="clickZero()">0</button>
+
+      <button class="decimal button" onclick="clickDecimal()">.</button>
+
+      <button class="equal button" onclick="clickEqual()">=</button>
+
+    </div>
+
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
