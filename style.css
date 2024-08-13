@@ -101,3 +101,19 @@ body{
 .equal{
   font-size: 26px;
 }
+
+@media (max-width: 450px){
+  .calc-body{
+    width: 90%;
+  }
+}
+
+@media (max-width: 1100px){
+  .calc-body{
+    width: 50%;
+  }
+  .num .button{
+    width: 100px;
+    height: 100px;
+  }
+}
