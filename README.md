@@ -8,7 +8,7 @@
 
 ## ✨ Features
 
-- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, #% Modulo, ➗ Division  
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, **%** Modulo, ➗ Division  
 - 🔄 Clear and backspace functionality  
 - 🎯 Responsive layout for mobile and desktop  
 - ⚡ Instant calculation on button press
