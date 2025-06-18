@@ -2,7 +2,7 @@
 
 **Calculator** is a fully functional arithmetic calculator built with HTML, CSS, and Vanilla JavaScript. It allows users to perform basic operations like addition, subtraction, multiplication, and division with a clean and responsive UI.
 
-🌐 **Live Demo**: [ar-aryanrai.github.io/Calculator](https://ar-aryanrai.github.io/Calculator/)
+🌐 **Live Demo**: [Click here to visit Calculator](https://ar-aryanrai.github.io/Calculator/)
 
 ---
 
